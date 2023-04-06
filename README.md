@@ -1,5 +1,7 @@
 # Лайв версия
-Задание: https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw
+Задание: 
+https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw
+
 Сcылка на сайт: https://artemdorokhov.github.io/Interactive-card-details-form/
 
 # Задача
