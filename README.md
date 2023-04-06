@@ -25,7 +25,7 @@ https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDW
 Если данные введены корректно, то сайт выдаст сообщение об успешной добавление карты, в противном случае выдаст ошибку.
 
 <p align="center">
-<img src="https://i.ibb.co/610Z7qL/g.png" width="80%"></p>
+<img src="https://i.ibb.co/TB5QqsL/2023-04-07-001517313.png" width="80%"></p>
 
 <p align="center">
 <img src="https://i.ibb.co/pyPFzMD/b.png" width="80%"></p>
